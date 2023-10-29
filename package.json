@@ -6,15 +6,9 @@
   "license": "MIT",
   "repository": "magiclabs/magic-admin-js",
   "type": "module",
-  "main": "dist/esm/index.js",
+  "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "types": "dist/cjs/index.d.ts",
-  "exports": {
-    ".": {
-      "import": "./dist/esm/index.js",
-      "require": "./dist/cjs/index.js"
-    }
-  },
   "files": [
     "dist/**/*"
   ],
