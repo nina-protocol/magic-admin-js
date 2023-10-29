@@ -1,5 +1,5 @@
 {
-  "name": "@magic-sdk/admin",
+  "name": "@nina-protocol/magic-admin-js",
   "version": "2.0.1",
   "description": "Magic Authentication Admin Javascript SDK.",
   "author": "Magic Labs <team@magic.link>",
