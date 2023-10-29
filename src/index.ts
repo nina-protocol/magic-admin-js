@@ -1,3 +1,3 @@
-export { MagicAdminSDK as Magic } from './core/sdk';
-export { MagicAdminSDKError as SDKError } from './core/sdk-exceptions';
+export { MagicAdminSDK as Magic } from './core/sdk.js';
+export { MagicAdminSDKError as SDKError } from './core/sdk-exceptions.js';
 export * from './types';
